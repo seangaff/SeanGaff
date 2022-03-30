@@ -1,7 +1,11 @@
-Hi, I’m Sean👋
+###👋Hi, I’m Sean ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 I'm a 3rd year student in Trinity College, expected to graduate 2023. Working towards a Bachelor's in Computer Science and a Minor in Business.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanGaff&count_private=true&theme=tokyonight)
+###💻Tech
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanGaff&layout=compact&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###📈Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanGaff&count_private=true&theme=tokyonight)
