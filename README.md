@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Sean [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+### 👋 Hi, I’m Sean
 
 I'm a 4th year student at Trinity College Dublin, graduating 2023. Working towards a Bachelor's in Computer Science and a Minor in Business.
 
