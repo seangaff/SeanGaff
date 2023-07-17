@@ -2,6 +2,7 @@
 
 I'm a 4th year student at Trinity College Dublin, graduating 2023. Working towards a Bachelor's in Computer Science and a Minor in Business.
 
+"
 
 ### 💻 Tools and Languages
 
@@ -20,6 +21,8 @@ I'm a 4th year student at Trinity College Dublin, graduating 2023. Working towar
 <img  align="left"height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
 </br>
+
+"
 
 ### 📈 Stats
 
